@@ -128,6 +128,7 @@
                         <outlet property="greenSlider" destination="UuI-vx-uuO" id="SYl-0s-V7D"/>
                         <outlet property="redLabel" destination="lKW-gq-Ibp" id="0jv-JP-umu"/>
                         <outlet property="redSlider" destination="BhF-mQ-ksN" id="jFO-N2-Zd8"/>
+                        <outlet property="variableView" destination="Mig-q4-9fg" id="Dlx-MF-Pqb"/>
                     </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
